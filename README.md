@@ -15,6 +15,7 @@
 - 🌐 &nbsp; React | HTML | CSS | SASS | JavaScript | TypeScript 
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL | MongoDB | Redis | SQL Server
 - 🔧 &nbsp; Visual Studio | PyCharm | Rider | Table Plus | Insominia | Postman | Git | DBDiagram
+- ☁️ &nbsp; AWS | Digital Ocean | Google Cloud | Azure
 
 <br>
 
