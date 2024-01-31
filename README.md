@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I’m currently studying software architectures and machine learning.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; postgraduated in data science.
+- 🎓 &nbsp; postgraduate in data science.
 - 💼 &nbsp; Software engineer.
 - 🌱 &nbsp; Enthusiast in Software Architecture.
 - 🏆 &nbsp; I believe that software engineering came to solve everyday problems and improve people's lives. 
